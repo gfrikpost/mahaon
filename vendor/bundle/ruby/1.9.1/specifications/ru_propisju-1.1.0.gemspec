@@ -1,0 +1,32 @@
+# -*- encoding: utf-8 -*-
+
+Gem::Specification.new do |s|
+  s.name = "ru_propisju"
+  s.version = "1.1.0"
+
+  s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
+  s.authors = ["Julik Tarkhanov"]
+  s.date = "2011-04-08"
+  s.description = "\u{d0}\u{92}\u{d1}\u{8b}\u{d0}\u{b2}\u{d0}\u{be}\u{d0}\u{b4}\u{d0}\u{b8}\u{d1}\u{82} \u{d1}\u{81}\u{d1}\u{83}\u{d0}\u{bc}\u{d0}\u{bc}\u{d1}\u{83} \u{d0}\u{bf}\u{d1}\u{80}\u{d0}\u{be}\u{d0}\u{bf}\u{d0}\u{b8}\u{d1}\u{81}\u{d1}\u{8c}\u{d1}\u{8e} \u{d0}\u{b8} \u{d1}\u{81}\u{d1}\u{83}\u{d0}\u{bc}\u{d0}\u{bc}\u{d1}\u{8b} \u{d0}\u{ba}\u{d0}\u{be}\u{d0}\u{bf}\u{d0}\u{b5}\u{d0}\u{b5}\u{d0}\u{ba}, \u{d1}\u{80}\u{d1}\u{83}\u{d0}\u{b1}\u{d0}\u{bb}\u{d0}\u{b5}\u{d0}\u{b9} \u{d0}\u{b8} \u{d0}\u{b3}\u{d1}\u{80}\u{d0}\u{b8}\u{d0}\u{b2}\u{d0}\u{b5}\u{d0}\u{bd}. \u{d0}\u{9f}\u{d0}\u{be}\u{d0}\u{bc}\u{d0}\u{be}\u{d0}\u{b3}\u{d0}\u{b0}\u{d0}\u{b5}\u{d1}\u{82} \u{d0}\u{b2} \u{d0}\u{b2}\u{d1}\u{8b}\u{d0}\u{b1}\u{d0}\u{be}\u{d1}\u{80}\u{d0}\u{b5} \u{d0}\u{bf}\u{d1}\u{80}\u{d0}\u{b0}\u{d0}\u{b2}\u{d0}\u{b8}\u{d0}\u{bb}\u{d1}\u{8c}\u{d0}\u{bd}\u{d0}\u{be}\u{d0}\u{b3}\u{d0}\u{be} \u{d1}\u{87}\u{d0}\u{b8}\u{d1}\u{81}\u{d0}\u{bb}\u{d0}\u{b8}\u{d1}\u{82}\u{d0}\u{b5}\u{d0}\u{bb}\u{d1}\u{8c}\u{d0}\u{bd}\u{d0}\u{be}\u{d0}\u{b3}\u{d0}\u{be}."
+  s.email = ["me@julik.nl"]
+  s.extra_rdoc_files = ["History.txt", "Manifest.txt", "README.rdoc"]
+  s.files = ["History.txt", "Manifest.txt", "README.rdoc"]
+  s.homepage = "http://github.com/julik/ru_propisju"
+  s.rdoc_options = ["--main", "README.rdoc"]
+  s.require_paths = ["lib"]
+  s.rubyforge_project = "ru_propisju"
+  s.rubygems_version = "2.0.3"
+  s.summary = "\u{d0}\u{92}\u{d1}\u{8b}\u{d0}\u{b2}\u{d0}\u{be}\u{d0}\u{b4}\u{d0}\u{b8}\u{d1}\u{82} \u{d1}\u{81}\u{d1}\u{83}\u{d0}\u{bc}\u{d0}\u{bc}\u{d1}\u{83} \u{d0}\u{bf}\u{d1}\u{80}\u{d0}\u{be}\u{d0}\u{bf}\u{d0}\u{b8}\u{d1}\u{81}\u{d1}\u{8c}\u{d1}\u{8e} \u{d0}\u{b8} \u{d1}\u{81}\u{d1}\u{83}\u{d0}\u{bc}\u{d0}\u{bc}\u{d1}\u{8b} \u{d0}\u{ba}\u{d0}\u{be}\u{d0}\u{bf}\u{d0}\u{b5}\u{d0}\u{b5}\u{d0}\u{ba}, \u{d1}\u{80}\u{d1}\u{83}\u{d0}\u{b1}\u{d0}\u{bb}\u{d0}\u{b5}\u{d0}\u{b9} \u{d0}\u{b8} \u{d0}\u{b3}\u{d1}\u{80}\u{d0}\u{b8}\u{d0}\u{b2}\u{d0}\u{b5}\u{d0}\u{bd}"
+
+  if s.respond_to? :specification_version then
+    s.specification_version = 3
+
+    if Gem::Version.new(Gem::VERSION) >= Gem::Version.new('1.2.0') then
+      s.add_development_dependency(%q<hoe>, [">= 2.9.1"])
+    else
+      s.add_dependency(%q<hoe>, [">= 2.9.1"])
+    end
+  else
+    s.add_dependency(%q<hoe>, [">= 2.9.1"])
+  end
+end

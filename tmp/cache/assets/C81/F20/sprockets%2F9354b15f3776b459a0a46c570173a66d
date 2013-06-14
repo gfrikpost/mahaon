@@ -1,0 +1,53 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1371215834.2784958:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%bdd9ae0aabedfae2975cbafb9294c09dI"logical_path;
+FI"store/spree_auth.css;
+TI"pathname;
+FI"}/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/auth/app/assets/stylesheets/store/spree_auth.css;
+TI"content_type;
+FI"text/css;
+FI"
+mtime;
+FI"2013-06-10T14:03:14+04:00;
+FI"	body;
+FI"/*
+*/
+
+;
+FI"asset_paths;
+F[	I"}/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/reset.css;
+TI"~/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/screen.css;
+TI"}/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/spree_core.css;
+TI"}/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/auth/app/assets/stylesheets/store/spree_auth.css;
+TI"dependency_paths;
+F[	{I"	path;
+FI"}/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/auth/app/assets/stylesheets/store/spree_auth.css;
+TI"
+mtime;
+FIu:	TimeJUАYеб
+:@_zoneI"MSK;
+T:nano_numiQ:nano_deni:submicro"3p:offseti@8I"hexdigest;
+F"%b3848206aaaa9eca0091f59e3582d101{I"	path;
+FI"}/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/reset.css;
+TI"
+mtime;
+FIu;JUАCв
+;I"MSK;
+T;iR;i;"3А;i@8I"hexdigest;
+F"%29caa77107ac6d943ad928dbc1e0af58{I"	path;
+FI"~/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/screen.css;
+TI"
+mtime;
+FIu;JUАCв
+;I"MSK;
+T;iR;i;"3А;i@8I"hexdigest;
+F"%b865da31f8a4df1cf6120b2c141fc0d8{I"	path;
+FI"}/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/spree_core.css;
+TI"
+mtime;
+FIu;JUАCв
+;I"MSK;
+T;iR;i;"3А;i@8I"hexdigest;
+F"%dd3cdfa15a51a114214a3bb5a034450eI"_version;
+F"%0868aba5d4b750d3a9421721ea3d9b9c

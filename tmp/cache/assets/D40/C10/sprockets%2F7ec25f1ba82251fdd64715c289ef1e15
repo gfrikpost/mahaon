@@ -1,0 +1,17 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1371216992.4328246:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%228732a682f401e15e605f069c237e1cI"logical_path;
+FI"store/cart.png;
+TI"pathname;
+FI"t$root/vendor/bundle/ruby/1.9.1/bundler/gems/synergy_default_theme-1952f220bfba/app/assets/images/store/cart.png;
+TI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2013-06-14T17:28:56+04:00;
+FI"length;
+FI"547;
+FI"digest;
+F"%8cebc8a8e0524564d978a2390841d83cI"_version;
+F"%0868aba5d4b750d3a9421721ea3d9b9c

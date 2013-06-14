@@ -1,0 +1,17 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1371216989.074796:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%83830970132ed6f099d0717062e1b130I"logical_path;
+FI"store/login_bar_bg.png;
+TI"pathname;
+FI"|$root/vendor/bundle/ruby/1.9.1/bundler/gems/synergy_default_theme-1952f220bfba/app/assets/images/store/login_bar_bg.png;
+TI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2013-06-14T17:28:56+04:00;
+FI"length;
+FI"206;
+FI"digest;
+F"%f86408354b19c6041825332fd9c2ebe5I"_version;
+F"%0868aba5d4b750d3a9421721ea3d9b9c

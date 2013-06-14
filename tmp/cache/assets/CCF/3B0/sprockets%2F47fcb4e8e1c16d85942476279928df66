@@ -1,0 +1,148 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1371216977.9386988:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%8789cea9d961422dbb10d4c09ea64c9eI"logical_path;
+FI"store/screen.css;
+TI"pathname;
+FI"p$root/vendor/bundle/ruby/1.9.1/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/screen.css;
+TI"content_type;
+FI"text/css;
+FI"
+mtime;
+FI"2013-06-14T17:28:42+04:00;
+FI"	body;
+FI"*body {
+  padding: 0 1em;
+}
+
+/* Header */
+
+div#header {
+  margin-bottom: 1em;
+}
+
+div#header ul#nav-bar {
+  line-height: 50px;
+  float: right;
+  clear: both;
+  font-size: 1.2em;
+  list-style: none;
+  margin: 0;
+}
+
+div#header ul#nav-bar li {
+  padding: 0 0 0 1em;
+  display: table-cell;
+  vertical-align: middle;
+  height: 82px;
+}
+
+
+/* Sidebar */
+
+div#sidebar {
+  float: left;
+  height: 100%;
+  max-width: 25%;
+}
+
+/* Content */
+
+div#content {
+  float: left;
+}
+
+body.two-col div#content {
+  float: left;
+  max-width: 75%;
+}
+
+div#footer {
+  clear: both;
+}
+
+ul#products {
+  list-style: none;
+  margin: 0 auto;
+}
+
+ul#products li {
+  float: left;
+  text-align: center;
+  width: 200px;
+  height: 150px;
+  padding: 0 10px 20px 10px;
+}
+
+ul#products li img {
+  display: block;
+  margin: auto;
+}
+
+button, a.button, input.button {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  cursor: pointer;
+  margin: 0px;
+  padding: 3px;
+  text-decoration: none;
+  font-size: 1em;
+  color: inherit;
+}
+
+button img, a.button img, input.button img {
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+div#subtotal { float: right; }
+
+div#product-variants ul li label { cursor: pointer; }
+div#product-images { width: 50%; }
+div#product-images, div#main-image, div#cart-form { float: left; }
+div#product-description { float: none; clear: both; }
+
+ul.thumbnails, #breadcrumbs ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+ul.thumbnails li {
+  width: 48px;
+  height: 48px;
+  margin-right: 4px;
+  margin-bottom: 4px;
+  min-height: 48px;
+  padding: 0;
+  float: none;
+  display: inline-block;
+  position: relative;
+  border: 1px solid silver;
+}
+#breadcrumbs ul li { display: inline-block; }
+
+dl.table-display dt { float: left; min-width: 200px; padding: 3px 5px; }
+dl.table-display dd { padding: 3px; }
+dl#product-price dt { float: left; padding: 0 10px 0 0; font-size: 14pt; }
+dl#product-price dd { font-size: 14pt; }
+
+.even { background: #EEE;}
+.odd { background: #DDD;}
+.hidden { display: none; }
+
+div.inner input[type=text], div.inner select { width: 90%; }
+span.req { color: red; padding-left: 0.25em; }
+;
+FI"asset_paths;
+F[I"p$root/vendor/bundle/ruby/1.9.1/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/screen.css;
+TI"dependency_paths;
+F[{I"	path;
+FI"p$root/vendor/bundle/ruby/1.9.1/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/screen.css;
+TI"
+mtime;
+FIu:	TimeÍU€Aâ§r
+:@_zoneI"MSK;
+T:nano_numi²:nano_deni:submicro"€:offseti@8I"hexdigest;
+F"%b865da31f8a4df1cf6120b2c141fc0d8I"_version;
+F"%0868aba5d4b750d3a9421721ea3d9b9c

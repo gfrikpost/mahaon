@@ -1,0 +1,53 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1371216977.9735787:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%5a7043e521ee0a076d0b5cc95155866eI"logical_path;
+FI"store/spree_dash.css;
+TI"pathname;
+FI"t$root/vendor/bundle/ruby/1.9.1/bundler/gems/spree-485dbc31278e/dash/app/assets/stylesheets/store/spree_dash.css;
+TI"content_type;
+FI"text/css;
+FI"
+mtime;
+FI"2013-06-14T17:28:42+04:00;
+FI"	body;
+FI"/*
+*/
+
+;
+FI"asset_paths;
+F[	I"o$root/vendor/bundle/ruby/1.9.1/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/reset.css;
+TI"p$root/vendor/bundle/ruby/1.9.1/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/screen.css;
+TI"t$root/vendor/bundle/ruby/1.9.1/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/spree_core.css;
+TI"t$root/vendor/bundle/ruby/1.9.1/bundler/gems/spree-485dbc31278e/dash/app/assets/stylesheets/store/spree_dash.css;
+TI"dependency_paths;
+F[	{I"	path;
+FI"t$root/vendor/bundle/ruby/1.9.1/bundler/gems/spree-485dbc31278e/dash/app/assets/stylesheets/store/spree_dash.css;
+TI"
+mtime;
+FIu:	TimeÍU€.«r
+:@_zoneI"MSK;
+T:nano_numi°:nano_deni:submicro"`:offseti@8I"hexdigest;
+F"%b3848206aaaa9eca0091f59e3582d101{I"	path;
+FI"o$root/vendor/bundle/ruby/1.9.1/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/reset.css;
+TI"
+mtime;
+FIu;ÍU€Aâ§r
+;I"MSK;
+T;i²;i;"€;i@8I"hexdigest;
+F"%29caa77107ac6d943ad928dbc1e0af58{I"	path;
+FI"p$root/vendor/bundle/ruby/1.9.1/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/screen.css;
+TI"
+mtime;
+FIu;ÍU€Aâ§r
+;I"MSK;
+T;i²;i;"€;i@8I"hexdigest;
+F"%b865da31f8a4df1cf6120b2c141fc0d8{I"	path;
+FI"t$root/vendor/bundle/ruby/1.9.1/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/spree_core.css;
+TI"
+mtime;
+FIu;ÍU€Aâ§r
+;I"MSK;
+T;i²;i;"€;i@8I"hexdigest;
+F"%dd3cdfa15a51a114214a3bb5a034450eI"_version;
+F"%0868aba5d4b750d3a9421721ea3d9b9c

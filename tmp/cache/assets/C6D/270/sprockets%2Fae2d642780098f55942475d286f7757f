@@ -1,0 +1,18 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1371216990.770879:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%98131ecae4e29c5a2b1a5bb07ac24d32I"logical_path;
+FI"store/footer_panel.png;
+TI"pathname;
+FI"|$root/vendor/bundle/ruby/1.9.1/bundler/gems/synergy_default_theme-1952f220bfba/app/assets/images/store/footer_panel.png;
+TI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2013-06-14T17:28:56+04:00;
+FI"length;
+FI"
+34389;
+FI"digest;
+F"%9e984cc1fd0035d0b8577c98674a78bdI"_version;
+F"%0868aba5d4b750d3a9421721ea3d9b9c

@@ -1,0 +1,15 @@
+---
+ru:
+  secret1: 'Код кнопки оплаты'
+  secret2: 'Секретный ключ'
+  payment_fail: 'Не удалось выполнить платеж'
+  payment_success: 'Платеж выполнен успешно'
+  success_url: 'URL успешной покупки'
+  fail_url: 'URL ошибки'
+  handler_url: 'URL обработчика'
+
+  gateway:
+    mainpay:
+      show:
+        pay: 'Оплата'
+        details: 'Оплата заказа %{order_number}'

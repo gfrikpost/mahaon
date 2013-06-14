@@ -1,0 +1,63 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1371215834.29781:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%4001752fa44f4f0fb78b5e58df88e243I"logical_path;
+FI"store/spree_promo.css;
+TI"pathname;
+FI"/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/promo/app/assets/stylesheets/store/spree_promo.css;
+TI"content_type;
+FI"text/css;
+FI"
+mtime;
+FI"2013-06-10T14:03:14+04:00;
+FI"	body;
+FI"/*
+*/
+
+;
+FI"asset_paths;
+F[
+I"}/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/reset.css;
+TI"~/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/screen.css;
+TI"}/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/spree_core.css;
+TI"}/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/auth/app/assets/stylesheets/store/spree_auth.css;
+TI"/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/promo/app/assets/stylesheets/store/spree_promo.css;
+TI"dependency_paths;
+F[
+{I"	path;
+FI"/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/promo/app/assets/stylesheets/store/spree_promo.css;
+TI"
+mtime;
+FIu:	TimeJUÄ˘Ë„
+:@_zoneI"MSK;
+T:nano_numiQ:nano_deni:submicro"3p:offseti@8I"hexdigest;
+F"%6462843728f776e9464e0eb1fa79be84{I"	path;
+FI"}/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/reset.css;
+TI"
+mtime;
+FIu;JUÄC‚
+;I"MSK;
+T;iR;i;"3Ä;i@8I"hexdigest;
+F"%29caa77107ac6d943ad928dbc1e0af58{I"	path;
+FI"~/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/screen.css;
+TI"
+mtime;
+FIu;JUÄC‚
+;I"MSK;
+T;iR;i;"3Ä;i@8I"hexdigest;
+F"%b865da31f8a4df1cf6120b2c141fc0d8{I"	path;
+FI"}/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/core/app/assets/stylesheets/store/spree_core.css;
+TI"
+mtime;
+FIu;JUÄC‚
+;I"MSK;
+T;iR;i;"3Ä;i@8I"hexdigest;
+F"%dd3cdfa15a51a114214a3bb5a034450e{I"	path;
+FI"}/home/horok/.rvm/gems/ruby-1.9.3-p327@rails3/bundler/gems/spree-485dbc31278e/auth/app/assets/stylesheets/store/spree_auth.css;
+TI"
+mtime;
+FIu;JUÄYÂ·
+;I"MSK;
+T;iQ;i;"3p;i@8I"hexdigest;
+F"%b3848206aaaa9eca0091f59e3582d101I"_version;
+F"%0868aba5d4b750d3a9421721ea3d9b9c
